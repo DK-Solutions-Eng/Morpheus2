@@ -1,0 +1,12 @@
+C:\sistemas\AutomacaoBalanca\Dev\BLL\bin\Release\BLL.dll
+C:\sistemas\AutomacaoBalanca\Dev\BLL\bin\Release\BLL.pdb
+C:\sistemas\AutomacaoBalanca\Dev\BLL\bin\Release\DAL.dll
+C:\sistemas\AutomacaoBalanca\Dev\BLL\bin\Release\Entidades.dll
+C:\sistemas\AutomacaoBalanca\Dev\BLL\bin\Release\DAL.pdb
+C:\sistemas\AutomacaoBalanca\Dev\BLL\bin\Release\Entidades.pdb
+C:\sistemas\AutomacaoBalanca\Dev\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\sistemas\AutomacaoBalanca\Dev\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\sistemas\AutomacaoBalanca\Dev\BLL\obj\Release\BLL.dll
+C:\sistemas\AutomacaoBalanca\Dev\BLL\obj\Release\BLL.pdb
+C:\sistemas\AutomacaoBalanca\Dev\BLL\bin\Release\Common.dll
+C:\sistemas\AutomacaoBalanca\Dev\BLL\bin\Release\Common.pdb

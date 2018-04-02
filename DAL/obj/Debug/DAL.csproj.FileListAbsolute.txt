@@ -1,0 +1,6 @@
+C:\sistemas\AutomacaoBalanca\Dev\DAL\bin\Debug\DAL.dll
+C:\sistemas\AutomacaoBalanca\Dev\DAL\bin\Debug\DAL.pdb
+C:\sistemas\AutomacaoBalanca\Dev\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\sistemas\AutomacaoBalanca\Dev\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\sistemas\AutomacaoBalanca\Dev\DAL\obj\Debug\DAL.dll
+C:\sistemas\AutomacaoBalanca\Dev\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,5 @@
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\bin\Release\Entidades.dll
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\bin\Release\Entidades.pdb
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\obj\Release\Entidades.dll
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\obj\Release\Entidades.pdb

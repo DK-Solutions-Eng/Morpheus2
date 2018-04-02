@@ -1,0 +1,9 @@
+C:\sistemas\AutomacaoBalanca\Dev\Banco\bin\Debug\Banco.dacpac
+C:\sistemas\AutomacaoBalanca\Dev\Banco\bin\Debug\Banco.dll
+C:\sistemas\AutomacaoBalanca\Dev\Banco\bin\Debug\Banco.pdb
+C:\sistemas\AutomacaoBalanca\Dev\Banco\obj\Debug\Model.xml
+C:\sistemas\AutomacaoBalanca\Dev\Banco\obj\Debug\refactor.xml
+C:\sistemas\AutomacaoBalanca\Dev\Banco\obj\Debug\postdeploy.sql
+C:\sistemas\AutomacaoBalanca\Dev\Banco\obj\Debug\predeploy.sql
+C:\sistemas\AutomacaoBalanca\Dev\Banco\obj\Debug\Banco.dll
+C:\sistemas\AutomacaoBalanca\Dev\Banco\obj\Debug\Banco.pdb

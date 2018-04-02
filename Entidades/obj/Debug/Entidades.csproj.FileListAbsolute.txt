@@ -1,0 +1,6 @@
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\bin\Debug\Entidades.dll
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\bin\Debug\Entidades.pdb
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\obj\Debug\Entidades.dll
+C:\sistemas\AutomacaoBalanca\Dev\Entidades\obj\Debug\Entidades.pdb

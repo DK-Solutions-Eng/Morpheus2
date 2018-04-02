@@ -1,0 +1,34 @@
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\BLL.dll
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\Common.dll
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\Entidades.dll
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\DAL.dll
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\BLL.pdb
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\Common.pdb
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\Entidades.pdb
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\DAL.pdb
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.csprojResolveAssemblyReference.cache
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmCadRele.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmCadTipoComando.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmCadTipoRele.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmCadUsuarios.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmCadComando.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmLogin.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmPrincipal.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmReceita.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmTestarComandos.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.Properties.Resources.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmStatus.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.csproj.GenerateResource.Cache
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.csproj.CoreCompileInputs.cache
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\SysBalanca.frmConfiguracao.resources
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\Morpheus 2.exe.config
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\Morpheus 2.exe
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\Morpheus 2.pdb
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\Morpheus 2.exe
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\Morpheus 2.pdb
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\AutomacaoBalanca.mdf
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\AutomacaoBalanca_log.ldf
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\Morpheus 2.exe.manifest
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Release\Morpheus 2.application
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\Morpheus 2.exe.manifest
+C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Release\Morpheus 2.application
