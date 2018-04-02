@@ -7,3 +7,12 @@ C:\sistemas\AutomacaoBalanca\Dev\Banco\obj\Debug\postdeploy.sql
 C:\sistemas\AutomacaoBalanca\Dev\Banco\obj\Debug\predeploy.sql
 C:\sistemas\AutomacaoBalanca\Dev\Banco\obj\Debug\Banco.dll
 C:\sistemas\AutomacaoBalanca\Dev\Banco\obj\Debug\Banco.pdb
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\Banco\bin\Debug\Banco.dacpac
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\Banco\bin\Debug\Banco.dll
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\Banco\bin\Debug\Banco.pdb
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\Banco\obj\Debug\Model.xml
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\Banco\obj\Debug\refactor.xml
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\Banco\obj\Debug\postdeploy.sql
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\Banco\obj\Debug\predeploy.sql
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\Banco\obj\Debug\Banco.dll
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\Banco\obj\Debug\Banco.pdb

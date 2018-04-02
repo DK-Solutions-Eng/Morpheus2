@@ -927,125 +927,124 @@ namespace SysBalanca
 
         private void txtValor_Leave(object sender, EventArgs e)
         {
+            //try
+            //{
+            //    if (cboObjetivo.SelectedIndex == 1)
+            //    {
+            //        if (ConfigurationManager.AppSettings["current"].ToString() == "pt-BR")
+            //        {
+            //            txtValor.Text = txtValor.Text.Replace(".", "");
+            //            if (txtValor.Text.IndexOf(",") == -1)
+            //            {
+            //                MessageBox.Show("Não é aceito ponto como separador decimal!");
+            //                txtValor.Clear();
+            //                txtValor.Focus();
+            //                return;
+            //            }
+            //            //var apenasDigitos = new Regex(@"\\d*(\\.\\d+)?");
+            //            if (txtValor.Text.IndexOf(",") != -1)
+            //            {
+            //                var apenasDigitos = new Regex(@"[^\d,\d-]");
+            //                txtValor.Text = Convert.ToDecimal(apenasDigitos.Replace(txtValor.Text, "") == "" ? "0" : apenasDigitos.Replace(txtValor.Text, "")).ToString("N1");
+            //            }
+            //            if (txtValor.Text == "0,0")
+            //            {
+            //                txtValor.Clear();
+            //            }
+            //        }
+            //        else if (ConfigurationManager.AppSettings["current"].ToString() == "en-US")
+            //        {
+            //            txtValor.Text = txtValor.Text.Replace(".", "");
+            //            if (txtValor.Text.IndexOf(",") == -1)
+            //            {
+            //                MessageBox.Show("Não é aceito ponto como separador decimal!");
+            //                txtValor.Clear();
+            //                txtValor.Focus();
+            //                return;
+            //            }
+            //            txtValor.Text = txtValor.Text.Replace(",", ".");
+            //            //var apenasDigitos = new Regex(@"\\d*(\\.\\d+)?");
+            //            if (txtValor.Text.IndexOf(".") != -1)
+            //            {
+            //                var apenasDigitos = new Regex(@"[^\d.\d-]");
+            //                txtValor.Text = Convert.ToDecimal(apenasDigitos.Replace(txtValor.Text, "") == "" ? "0" : apenasDigitos.Replace(txtValor.Text, "")).ToString("N1").Replace(".", ",");
+            //            }
+            //            if (txtValor.Text == "0,0")
+            //            {
+            //                txtValor.Clear();
+            //            }
+            //        }
+            //    }
+            //}
+            //catch (Exception ex)
+            //{
+            //    MessageBox.Show("Formato inválido!");
+            //    txtValor.Clear();
+            //    txtValor.Focus();
+            //}
 
-        }
-
-        private void maskedTextBox1_Leave_1(object sender, EventArgs e)
-        {
-            try
-            {
-                if (cboObjetivo.SelectedIndex == 1)
-                {
-                    if (ConfigurationManager.AppSettings["current"].ToString() == "pt-BR")
-                    {
-                        txtValor.Text = txtValor.Text.Replace(".", "");
-                        if (txtValor.Text.IndexOf(",") == -1)
-                        {
-                            MessageBox.Show("Não é aceito ponto como separador decimal!");
-                            txtValor.Clear();
-                            txtValor.Focus();
-                            return;
-                        }
-                        //var apenasDigitos = new Regex(@"\\d*(\\.\\d+)?");
-                        if (txtValor.Text.IndexOf(",") != -1)
-                        {
-                            var apenasDigitos = new Regex(@"[^\d,\d-]");
-                            txtValor.Text = Convert.ToDecimal(apenasDigitos.Replace(txtValor.Text, "") == "" ? "0" : apenasDigitos.Replace(txtValor.Text, "")).ToString("N1");
-                        }
-                        if (txtValor.Text == "0,0")
-                        {
-                            txtValor.Clear();
-                        }
-                    }
-                    else if(ConfigurationManager.AppSettings["current"].ToString() == "en-US")
-                    {
-                        txtValor.Text = txtValor.Text.Replace(".", "");
-                        if(txtValor.Text.IndexOf(",") == -1)
-                        {
-                            MessageBox.Show("Não é aceito ponto como separador decimal!");
-                            txtValor.Clear();
-                            txtValor.Focus();
-                            return;
-                        }
-                        txtValor.Text = txtValor.Text.Replace(",", ".");
-                        //var apenasDigitos = new Regex(@"\\d*(\\.\\d+)?");
-                        if (txtValor.Text.IndexOf(".") != -1)
-                        {
-                            var apenasDigitos = new Regex(@"[^\d.\d-]");
-                            txtValor.Text = Convert.ToDecimal(apenasDigitos.Replace(txtValor.Text, "") == "" ? "0" : apenasDigitos.Replace(txtValor.Text, "")).ToString("N1").Replace(".",",");
-                        }
-                        if (txtValor.Text == "0,0")
-                        {
-                            txtValor.Clear();
-                        }
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Formato inválido!");
-                txtValor.Clear();
-                txtValor.Focus();
-            }
+            txtValor.Text = txtValor.Text.Replace(".", "");
         }
 
         private void txtValorCorte_Leave(object sender, EventArgs e)
         {
-            try
-            {
-                if (cboObjetivo.SelectedIndex == 1)
-                {
-                    if (ConfigurationManager.AppSettings["current"].ToString() == "pt-BR")
-                    {
-                        txtValorCorte.Text = txtValorCorte.Text.Replace(".", "");
-                        if (txtValorCorte.Text.IndexOf(",") == -1)
-                        {
-                            MessageBox.Show("Não é aceito ponto como separador decimal!");
-                            txtValorCorte.Clear();
-                            txtValorCorte.Focus();
-                            return;
-                        }
-                        //var apenasDigitos = new Regex(@"\\d*(\\.\\d+)?");
-                        if (txtValorCorte.Text.IndexOf(",") != -1)
-                        {
-                            var apenasDigitos = new Regex(@"[^\d,\d-]");
-                            txtValorCorte.Text = Convert.ToDecimal(apenasDigitos.Replace(txtValorCorte.Text, "") == "" ? "0" : apenasDigitos.Replace(txtValorCorte.Text, "")).ToString("N1");
-                        }
-                        if (txtValorCorte.Text == "0,0")
-                        {
-                            txtValorCorte.Clear();
-                        }
-                    }
-                    else if (ConfigurationManager.AppSettings["current"].ToString() == "en-US")
-                    {
-                        txtValorCorte.Text = txtValorCorte.Text.Replace(".", "");
-                        if (txtValorCorte.Text.IndexOf(",") == -1)
-                        {
-                            MessageBox.Show("Não é aceito ponto como separador decimal!");
-                            txtValorCorte.Clear();
-                            txtValorCorte.Focus();
-                            return;
-                        }
-                        txtValorCorte.Text = txtValorCorte.Text.Replace(",", ".");
-                        //var apenasDigitos = new Regex(@"\\d*(\\.\\d+)?");
-                        if (txtValorCorte.Text.IndexOf(".") != -1)
-                        {
-                            var apenasDigitos = new Regex(@"[^\d.\d-]");
-                            txtValorCorte.Text = Convert.ToDecimal(apenasDigitos.Replace(txtValorCorte.Text, "") == "" ? "0" : apenasDigitos.Replace(txtValorCorte.Text, "")).ToString("N1").Replace(".", ",");
-                        }
-                        if (txtValorCorte.Text == "0,0")
-                        {
-                            txtValorCorte.Clear();
-                        }
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Formato inválido!");
-                txtValorCorte.Clear();
-                txtValorCorte.Focus();
-            }
+            //try
+            //{
+            //    if (cboObjetivo.SelectedIndex == 1)
+            //    {
+            //        if (ConfigurationManager.AppSettings["current"].ToString() == "pt-BR")
+            //        {
+            //            txtValorCorte.Text = txtValorCorte.Text.Replace(".", "");
+            //            if (txtValorCorte.Text.IndexOf(",") == -1)
+            //            {
+            //                MessageBox.Show("Não é aceito ponto como separador decimal!");
+            //                txtValorCorte.Clear();
+            //                txtValorCorte.Focus();
+            //                return;
+            //            }
+            //            //var apenasDigitos = new Regex(@"\\d*(\\.\\d+)?");
+            //            if (txtValorCorte.Text.IndexOf(",") != -1)
+            //            {
+            //                var apenasDigitos = new Regex(@"[^\d,\d-]");
+            //                txtValorCorte.Text = Convert.ToDecimal(apenasDigitos.Replace(txtValorCorte.Text, "") == "" ? "0" : apenasDigitos.Replace(txtValorCorte.Text, "")).ToString("N1");
+            //            }
+            //            if (txtValorCorte.Text == "0,0")
+            //            {
+            //                txtValorCorte.Clear();
+            //            }
+            //        }
+            //        else if (ConfigurationManager.AppSettings["current"].ToString() == "en-US")
+            //        {
+            //            txtValorCorte.Text = txtValorCorte.Text.Replace(".", "");
+            //            if (txtValorCorte.Text.IndexOf(",") == -1)
+            //            {
+            //                MessageBox.Show("Não é aceito ponto como separador decimal!");
+            //                txtValorCorte.Clear();
+            //                txtValorCorte.Focus();
+            //                return;
+            //            }
+            //            txtValorCorte.Text = txtValorCorte.Text.Replace(",", ".");
+            //            //var apenasDigitos = new Regex(@"\\d*(\\.\\d+)?");
+            //            if (txtValorCorte.Text.IndexOf(".") != -1)
+            //            {
+            //                var apenasDigitos = new Regex(@"[^\d.\d-]");
+            //                txtValorCorte.Text = Convert.ToDecimal(apenasDigitos.Replace(txtValorCorte.Text, "") == "" ? "0" : apenasDigitos.Replace(txtValorCorte.Text, "")).ToString("N1").Replace(".", ",");
+            //            }
+            //            if (txtValorCorte.Text == "0,0")
+            //            {
+            //                txtValorCorte.Clear();
+            //            }
+            //        }
+            //    }
+            //}
+            //catch (Exception ex)
+            //{
+            //    MessageBox.Show("Formato inválido!");
+            //    txtValorCorte.Clear();
+            //    txtValorCorte.Focus();
+            //}
+
+            txtValorCorte.Text = txtValorCorte.Text.Replace(".", "");
         }
 
         private void txtValorLimite_Leave(object sender, EventArgs e)
@@ -1455,6 +1454,34 @@ namespace SysBalanca
             else
             {
                 MessageBox.Show("Equipamento desligado, verifique!");
+            }
+        }
+
+        private void txtValor_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar >= '0' && e.KeyChar <= '9') || e.KeyChar == ',')
+
+            {
+
+            }
+            else
+            {
+                MessageBox.Show("Não é aceito ponto como separador decimal!");
+                txtValor.Clear();
+            }
+        }
+
+        private void txtValorCorte_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar >= '0' && e.KeyChar <= '9') || e.KeyChar == ',')
+
+            {
+
+            }
+            else
+            {
+                MessageBox.Show("Não é aceito ponto como separador decimal!");
+                txtValorCorte.Clear();
             }
         }
     }

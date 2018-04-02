@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BLL.dll" size="19968">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BLL.dll" size="20480">
       <assemblyIdentity name="BLL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>e+iBg25KbUMt1pZ3pruQaBxVrxQ=</dsig:DigestValue>
+        <dsig:DigestValue>isTvcQDHJTBZNadp8TDWZ/69ifk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,19 +62,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>bxzXQBu24lJOpnszAVvRWnABgPw=</dsig:DigestValue>
+        <dsig:DigestValue>NSaRNi7xJ7MQJV+ECEaWyAdF+/0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DAL.dll" size="8192">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DAL.dll" size="8704">
       <assemblyIdentity name="DAL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>iUvOTE0/FE9jckXD5gft4BAw6ko=</dsig:DigestValue>
+        <dsig:DigestValue>ZFLpPOG0Uk3a+uVeUWZBRR15awM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,19 +86,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>/k5M1/PmAI6lgC+EwVI/zCL/dhg=</dsig:DigestValue>
+        <dsig:DigestValue>vIRVuugSZdSlwvQ/ciZ69tgwiKo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Morpheus 2.exe" size="366528">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Morpheus 2.exe" size="365504">
       <assemblyIdentity name="Morpheus 2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>C88HxJrwZuDMeCEMQXhmd6tFU10=</dsig:DigestValue>
+        <dsig:DigestValue>gLto6TsowYT2t4O+QRISKQlIYnQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -120,13 +120,13 @@
       <dsig:DigestValue>lEvydKAVv/dQj+FRluE7hYYpaUw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Morpheus 2.exe.config" size="822">
+  <file name="Morpheus 2.exe.config" size="619">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>ag3nkgGQlcaSAAJbVFr2xzVCWAM=</dsig:DigestValue>
+      <dsig:DigestValue>kQiI90jMGnF3N+8dT4q28SNX67g=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

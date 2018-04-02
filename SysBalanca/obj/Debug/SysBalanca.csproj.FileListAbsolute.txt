@@ -32,3 +32,36 @@ C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Debug\Morpheus 2.exe.manifest
 C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\bin\Debug\Morpheus 2.application
 C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Debug\Morpheus 2.exe.manifest
 C:\sistemas\AutomacaoBalanca\Dev\SysBalanca\obj\Debug\Morpheus 2.application
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\AutomacaoBalanca.mdf
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\AutomacaoBalanca_log.ldf
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\Morpheus 2.exe.config
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\Morpheus 2.exe.manifest
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\Morpheus 2.application
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\Morpheus 2.exe
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\Morpheus 2.pdb
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\BLL.dll
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\Common.dll
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\Entidades.dll
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\DAL.dll
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\BLL.pdb
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\Common.pdb
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\bin\Debug\DAL.pdb
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmCadRele.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmCadTipoComando.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmCadTipoRele.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmCadUsuarios.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmCadComando.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmConfiguracao.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmLogin.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmPrincipal.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmReceita.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmTestarComandos.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.Properties.Resources.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.frmStatus.resources
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\SysBalanca.csproj.GenerateResource.Cache
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\Morpheus 2.exe.manifest
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\Morpheus 2.application
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\Morpheus 2.exe
+C:\Users\Lucas\Google Drive\DK Solutions\AEPH\Software\Morpheus2\SysBalanca\obj\Debug\Morpheus 2.pdb

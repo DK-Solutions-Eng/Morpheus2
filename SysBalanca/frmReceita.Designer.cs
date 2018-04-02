@@ -257,10 +257,11 @@
             // 
             // txtValorCorte
             // 
-            this.txtValorCorte.Location = new System.Drawing.Point(165, 82);
+            this.txtValorCorte.Location = new System.Drawing.Point(163, 82);
             this.txtValorCorte.Name = "txtValorCorte";
-            this.txtValorCorte.Size = new System.Drawing.Size(146, 23);
+            this.txtValorCorte.Size = new System.Drawing.Size(148, 23);
             this.txtValorCorte.TabIndex = 6;
+            this.txtValorCorte.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtValorCorte_KeyPress);
             this.txtValorCorte.Leave += new System.EventHandler(this.txtValorCorte_Leave);
             // 
             // txtValor
@@ -269,7 +270,8 @@
             this.txtValor.Name = "txtValor";
             this.txtValor.Size = new System.Drawing.Size(148, 23);
             this.txtValor.TabIndex = 5;
-            this.txtValor.Leave += new System.EventHandler(this.maskedTextBox1_Leave_1);
+            this.txtValor.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtValor_KeyPress);
+            this.txtValor.Leave += new System.EventHandler(this.txtValor_Leave);
             // 
             // lblValorCorte
             // 
